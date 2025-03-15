@@ -10,7 +10,7 @@
 
 ###
 
-<h4 align="left">🏢 Sri Ramachandra Faculty of Engineering and Technology<br>💻 Btech CSE (Artificial Intelligence and Machine Learning)<br>👨🏻‍🎓  3rd Year</h4>
+<h4 align="left">🏢 Sri Ramachandra Faculty of Engineering and Technology<br>💻 Btech CSE (Artificial Intelligence and Machine Learning)<br>👨🏻‍🎓  4th Year</h4>
 
 ###
 
