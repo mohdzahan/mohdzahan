@@ -61,22 +61,24 @@
 
 ## 🌐 Connect with Me
 
-<h3 align="center">Connect with Me</h3>
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/your-linkedin-id" title="LinkedIn">
+  <a href="https://www.linkedin.com/in/mohdzahan" title="LinkedIn">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" style="height:54px;" />
   </a>
   &nbsp;&nbsp;&nbsp;
-  <a href="mailto:your.email@example.com" title="Email">
+  &nbsp;&nbsp;&nbsp;
+  <a href="mailto:mohammedzahan03@gmail.com" title="Email">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" style="height:54px;" />
   </a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://www.instagram.com/your-instagram-id" title="Instagram">
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.instagram.com/mohd.zhn" title="Instagram">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" style="height:54px;" />
   </a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://discordapp.com/users/your-discord-id" title="Discord">
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://discordapp.com/users/phantomdeluxe9106" title="Discord">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" style="height:54px;" />
   </a>
 </div>
